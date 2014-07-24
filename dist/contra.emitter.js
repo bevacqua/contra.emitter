@@ -1,3 +1,9 @@
+/**
+ * contra.emitter - A sane event emitter component
+ * @version v0.1.3
+ * @link https://github.com/bevacqua/contra.emitter
+ * @license MIT
+ */
 (function (root, undefined) {
   'use strict';
 
