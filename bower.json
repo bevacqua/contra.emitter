@@ -1,7 +1,7 @@
 {
   "name": "contra.emitter",
   "description": "A sane event emitter component",
-  "version": "1.6.8",
+  "version": "0.1.0",
   "homepage": "https://github.com/bevacqua/contra.emitter",
   "author": {
     "name": "Nicolas Bevacqua",
