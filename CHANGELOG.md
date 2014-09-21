@@ -1,3 +1,7 @@
+# 1.6.9 Context Mayhem
+
+- Fixed an issue where you weren't able to change the event context using `.apply` on event emissions
+
 # 1.6.8 Cascade of Events
 
 - `λ.emitter` methods return the emitter object for chaining
