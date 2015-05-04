@@ -1,3 +1,7 @@
+# 1.1.1 Snapchat
+
+- Fixed a use case where the consumer turned the emitter `.off` from within the event listener
+
 # 1.1.0 Snapshot
 
 - Introduced `emitterSnapshot(type)` method
