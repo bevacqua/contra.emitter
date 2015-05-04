@@ -61,7 +61,7 @@
         });
         return thing;
       };
-    }
+    };
     return thing;
   }
 
